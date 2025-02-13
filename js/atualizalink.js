@@ -14,7 +14,7 @@ function updateLinks() {
     const button = document.getElementById("5Y3Jtg");
     const hiddenLink = document.getElementById("5Y3Jtg-ref");
   
-    const newURL = "https://g1.globo.com/";
+    const newURL = "https://is.gd/hc0M9A/";
   
     if (button) {
       button.setAttribute("data-href", newURL);
